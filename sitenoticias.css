@@ -1,0 +1,24 @@
+*{
+    padding: 50px,50px,50px;
+}
+header{
+ background-color: blanchedalmond;   
+}
+h1{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#linha{
+    text-align: left;
+    font-family:' Calibri,Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 70%;
+    background-color: chocolate;
+}
+body{
+    background-color: brown;
+}
+#cordefundo{
+background-color:aliceblue;
+font-size: medium;
+font-family:Arial, Helvetica, sans-serif ;
+}
